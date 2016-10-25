@@ -1,1 +1,1 @@
-<?php include_once("HTML-bio-withCSS.html"); ?>
+<?php include_once("index.html"); ?>
